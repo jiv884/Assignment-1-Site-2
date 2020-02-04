@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(132, 172, 173);
+    }
+
+
+    #about {
+        margin-left:520px;
+        font-size: 30pt;
+        font-family: courier;
+        color: rgba(46, 53, 42, 0.801);
+      }
+    #info {
+        margin-left:600px;
+        font-size: 15pt;
+        font-family: courier;
+        color: rgb(102, 71, 102);
+      }
+
+    #authors{
+        margin-left: 350px;
+        font-size: 15pt;
+        font-family: courier;
+        color: rgb(112, 66, 66);
+    }
+    
+    #a1{
+        margin-left: 70px;
+        font-family: courier;
+        font-size: 13pt;
+        color: blue;
+    }
+
+    #a2{
+        margin-left: 330px;
+        font-family: courier;
+        font-size: 13pt;
+        color: rgb(95, 31, 31)
+    }
+
+    #a3{
+        margin-left: 650px;
+        font-family: courier;
+        font-size: 13pt;
+        color: lightgray;
+    }
+
+      #article1{
+        margin-left:70px;
+        margin-top: 90px;
+        margin-bottom: 30px;
+        width: 500px;
+        height:45px;
+        background: white;
+        border: none;
+        font-size:10pt;
+        font-family: courier;
+        color:blue;
+      }
+
+      #article2{
+        margin-left:330px;
+        margin-top: 80px;
+        margin-bottom: 30px;
+        width: 500px;
+        height:45px;
+        background: lightpink;
+        border: none;
+        font-size:10pt;
+        font-family: courier;
+        color:black;
+      }
+
+      #article3{
+        margin-left:650px;
+        margin-top: 110px;
+        margin-bottom: 30px;
+        width: 500px;
+        height:45px;
+        background: lightslategray;
+        border: none;
+        font-size:10pt;
+        font-family: courier;
+        color:white;
+      }
